@@ -1,3 +1,5 @@
+# calculates the chance of getting heads or tails in amount of flips you specify
+
 from random import choice
 
 
