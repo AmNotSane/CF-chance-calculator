@@ -31,6 +31,3 @@ def heads_tails():
 
 
 heads_tails()
-
-
-heads_tails()
